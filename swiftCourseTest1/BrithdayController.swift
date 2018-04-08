@@ -9,6 +9,7 @@
 import UIKit
 
 class BrithdayController: UITableViewController {
+    let v = 0
     override func viewDidLoad() {
         let value:Int = 1
         super.viewDidLoad()
