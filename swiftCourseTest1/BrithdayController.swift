@@ -10,6 +10,7 @@ import UIKit
 
 class BrithdayController: UITableViewController {
     override func viewDidLoad() {
+        let value:Int = 1
         super.viewDidLoad()
         print("-------O11")
         print("-------O11 branch 1")
