@@ -9,7 +9,10 @@
 import UIKit
 
 class BrithdayController: UITableViewController {
+    let v = 0
     override func viewDidLoad() {
+        let value:Int = 1
+        let value2:Int = 2
         super.viewDidLoad()
         let cool = 1
         let cool1 = 11
