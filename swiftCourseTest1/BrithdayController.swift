@@ -10,7 +10,6 @@ import UIKit
 
 class BrithdayController: UITableViewController {
     override func viewDidLoad() {
-        let value:Int = 1
         super.viewDidLoad()
         let cool = 1
         print("-------O11")
