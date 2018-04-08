@@ -12,6 +12,7 @@ class BrithdayController: UITableViewController {
     let v = 0
     override func viewDidLoad() {
         let value:Int = 1
+        let value2:Int = 2
         super.viewDidLoad()
         print("-------O11")
         print("-------O11 branch 1")
