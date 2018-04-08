@@ -11,6 +11,7 @@ import UIKit
 class BrithdayController: UITableViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
+        let cool = 1
         print("-------O11")
         // Do any additional setup after loading the view.
     }
